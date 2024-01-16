@@ -15,7 +15,7 @@ Saloonify is an your one-stop destination to all your salon needs here you can s
 
    ```bash
    git clone https://github.com/saisrinivas2511/Saloonify.git
-   cd proapp
+   cd Saloonify
    
 2. Install the dependencies:
    ```bash
